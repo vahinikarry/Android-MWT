@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment82</string>
+    <string name="PrefName">"AcadGild"</string>
+    <string name="PrefAge">2</string>
+    <string name="PrefPhone">342342</string>
+    <string name="PrefCity">Dallas</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment81</string>
+    <string-array name="array_list_preference_entries">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+    </string-array>
+
+    <string-array name="array_list_preference_entry_values">
+        <item>Item1</item>
+        <item>Item2</item>
+        <item>Item3</item>
+        <item>Item4</item>
+    </string-array>
+</resources>
